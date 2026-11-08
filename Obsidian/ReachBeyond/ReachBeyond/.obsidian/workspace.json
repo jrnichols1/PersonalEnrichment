@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "daa39b5ead0b86e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae28d09220989fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df7a0bb92724efef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative/Rules (Revised).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rules (Revised)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "673fcdb60d9b5258",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b60dab4cb65fa2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d902dca8b25c644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "51656098ee6df964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9edd0c4db70c474f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb5e6dfc48be1e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea31b6f7e7dad30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d383e6a85725f18e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "June/Group/12th.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 12th"
+            }
+          },
+          {
+            "id": "02b15bb5518e5c74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "June/Group/12th.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 12th"
+            }
+          },
+          {
+            "id": "2a83b0a548fb7452",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "571dcfab4be2543a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0cf9636a2b8da60a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "June/Group/12th.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 12th"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "df7a0bb92724efef",
+  "lastOpenFiles": [
+    "Group/2026/11 November/06.md",
+    "September/Email/Rev 2.md",
+    "September/Email/Rev 1.md",
+    "Administrative/Rules (Revised).md",
+    "Administrative/Rules.md",
+    "Group/2027",
+    "Group/2026",
+    "Group/2026/11 November",
+    "Group/2026/10 October/Core Competency is Support Systems.md",
+    "Group/2026/10 October",
+    "Administrative/Measurement of Completion.md",
+    "September/Email/Rev1.md",
+    "September/Email/Untitled",
+    "September/Email",
+    "September",
+    "Administrative/Meeting Format.md",
+    "Measurement of Completion/Changes due to BeyondCounseling.md",
+    "Measurement of Completion/Abstinence.md",
+    "Measurement of Completion/Stop any violent or threatening behaviors.md",
+    "Measurement of Completion/Victim Safety.md",
+    "Measurement of Completion/Stopping personal abusive behavior.md",
+    "Measurement of Completion/Not blaming victim.md",
+    "Measurement of Completion/Demonstrate technical knowledge.md",
+    "Measurement of Completion/Demonstrate preventing violence and abuse.md",
+    "Measurement of Completion/Patterns and beliefs.md",
+    "Measurement of Completion/Describe effects of abusive behavior.md",
+    "Measurement of Completion/Detail controlling and violent behaviors.md",
+    "Measurement of Completion",
+    "Administrative/Introduction.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Group/2026/7 July/10.md",
+    "Group/2026/6 June/19th.md",
+    "Group/2026/6 June/12th.md",
+    "Group/July/Untitled.canvas",
+    "Group/2026/7 July",
+    "Group/2026/6 June"
+  ]
+}
